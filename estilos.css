@@ -183,6 +183,7 @@ main{
     cursor: pointer;
     position: relative;
     right: 4px;
+    display: none;
 }
 
 .ocultar{
